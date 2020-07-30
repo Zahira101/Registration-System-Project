@@ -1,0 +1,8 @@
+First of all you have to install these below Softwares.
+1. NetBeans Ide 8.2
+2. Xampp Server
+3. Mysql connector
+Now import the Pk folder of code in netbeans
+and pk.sql database file on your zampp server.
+Also import mysql connector as jar file.
+then run you code from netbeans ide
